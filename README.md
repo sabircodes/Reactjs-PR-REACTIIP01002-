@@ -3,7 +3,6 @@
 This is a simple React-based account management application built with Vite. It provides basic functionality for user registration, login, and account management.
 
 ## Features
-
 - User Registration
 - User Login
 - Account Information Management
